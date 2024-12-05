@@ -1,0 +1,14 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "sinon": "^17.0.1"
+  }
+}
